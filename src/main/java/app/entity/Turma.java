@@ -30,6 +30,8 @@ public class Turma {
 	private long ano;
 	private String turno;
 	
+	//teste22222
+	
 	@ManyToOne
 	private Curso curso;
 }
